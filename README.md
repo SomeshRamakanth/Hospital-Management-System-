@@ -1,1 +1,1 @@
-# AED-Project
+# Hospital-Management-System
